@@ -12,9 +12,10 @@ C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\ne
 C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\MyWebBookStore.csproj.CoreCompileInputs.cache
 C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\MyWebBookStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\staticwebassets\MyWebBookStore.StaticWebAssets.Manifest.cache
-C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\staticwebassets\MyWebBookStore.StaticWebAssets.xml
-C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyWebBookStore.styles.css
 C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\MyWebBookStore.RazorTargetAssemblyInfo.cache
 C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\MyWebBookStore.dll
 C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\MyWebBookStore.pdb
 C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\MyWebBookStore.genruntimeconfig.cache
+C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\MyWebBookStore.csproj.AssemblyReference.cache
+C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\staticwebassets\MyWebBookStore.StaticWebAssets.xml
+C:\Users\ivanb\source\repos\BookStore\MyWebBookStore\MyWebBookStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyWebBookStore.styles.css
